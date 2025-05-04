@@ -10,12 +10,6 @@ FuriaApp é uma aplicação full-stack que conecta fãs de e-sports, oferecendo 
 
 ## ✨ Funcionalidades Principais
 
-### 💬 Chat em Tempo Real
-- Comunicação instantânea entre usuários
-- FuriaBot integrado com respostas inteligentes
-- Histórico de mensagens
-- Comandos especiais (/pontos, /perfil, /ajuda)
-
 ### 🏆 Sistema de Gamificação
 - Pontos por participação
 - Badges por conquistas
