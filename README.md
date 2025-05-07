@@ -124,24 +124,6 @@ npm start
 - Proteção de rotas
 - Sanitização de inputs
 
-## 📈 Próximos Passos
-
-- [ ] Implementação de notificações push
-- [ ] Sistema de eventos ao vivo
-- [ ] Integração com mais plataformas de e-sports
-- [ ] Melhorias no sistema de gamificação
-- [ ] Análise de dados e métricas
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Por favor, siga estas etapas:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -151,5 +133,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Para suporte, envie um email para [soterocaue2@gmail.com] ou abra uma issue no GitHub.
 
 ---
-
-Desenvolvido com ❤️ pela equipe FuriaApp 
